@@ -1,7 +1,7 @@
 🏢 Sobre Datannova
 
 Datannova es una empresa colombiana especializada en consultoría y soluciones de Big Data Analytics, arquitectura de datos, visualización avanzada y Analytics as a Service (AaaS). Nuestra misión es convertir datos en decisiones estratégicas a través de tecnologías innovadoras y metodologías de calidad.
-
+---
 🚀 Descripción del Proyecto
 
 PIAVE es una plataforma web inteligente que centraliza la conexión, procesamiento, análisis y visualización de datos empresariales, optimizando la toma de decisiones mediante analítica avanzada y Machine Learning.
